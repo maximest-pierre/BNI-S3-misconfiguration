@@ -1,5 +1,7 @@
 # Bonshaw Delivery Network S3 misconfiguration
 
+**This misconfiguration has now been fix**
+
 After ordering an item off of Amazon, we saw that the tracking was using a company Bonshaw Delivery Network. 
 
 The page is just a generic order detail and tracking information. They added a picture as the proof of delivery. The picture is serve using an S3 bucket (https://bni-dist-app-delivery-img-prod.s3.amazonaws.com/). 
